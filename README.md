@@ -3,7 +3,6 @@
 <h1 align="center">Email sending service based on Python (Django REST framework)</h1>
 <p align="center">
 
-<img src="https://img.shields.io/badge/madeBy-KD3821-lightblue" >
 
 <p align="center">Проект в рамках выполнениня тестового задания на вакансию <b>Python-разработчик (Django, DRF)</b><br>
 <strong>Тестовое Задание:</strong></p>
